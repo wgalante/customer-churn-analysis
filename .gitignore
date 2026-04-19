@@ -1,0 +1,18 @@
+# Data (dataset não vai para o GitHub — arquivo grande)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporários
+temp_*
