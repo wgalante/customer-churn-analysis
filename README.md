@@ -1,6 +1,6 @@
 # 📉 Customer Churn Analysis & Prediction — Telco
 
-![Churn Prediction Infographic](telco_churn.png)
+![Churn Prediction Infographic](telco churn.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-150458?logo=pandas&logoColor=white)
